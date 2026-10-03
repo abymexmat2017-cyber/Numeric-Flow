@@ -1,0 +1,22 @@
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build*/
+dist/
+results/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.flake8
+# Historical source and restoration planning stay local.
+/archive/
+/docs/superpowers/
+текст программы.txt
